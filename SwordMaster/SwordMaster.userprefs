@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{02056B29-971A-6525-E4AC-869E2AACAC70}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SlashableCreator.cs">
+    <Files>
+      <File FileName="Assets/SlashableCreator.cs" Line="38" Column="58" />
+      <File FileName="Assets/SlashableSettings.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SwordMaster PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

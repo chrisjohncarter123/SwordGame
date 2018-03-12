@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordMaster", "SwordMaster.csproj", "{02056B29-971A-6525-E4AC-869E2AACAC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordMaster.Plugins", "SwordMaster.Plugins.csproj", "{96352AF7-918A-BBD5-46FB-CBDF5DFA63EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordMaster.Editor", "SwordMaster.Editor.csproj", "{5CFB6307-008E-B57A-717D-63FD93344B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwordMaster.Editor.Plugins", "SwordMaster.Editor.Plugins.csproj", "{16B5FFD7-6CEB-4B56-4990-A16EB67FC175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02056B29-971A-6525-E4AC-869E2AACAC70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02056B29-971A-6525-E4AC-869E2AACAC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02056B29-971A-6525-E4AC-869E2AACAC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02056B29-971A-6525-E4AC-869E2AACAC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96352AF7-918A-BBD5-46FB-CBDF5DFA63EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96352AF7-918A-BBD5-46FB-CBDF5DFA63EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96352AF7-918A-BBD5-46FB-CBDF5DFA63EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96352AF7-918A-BBD5-46FB-CBDF5DFA63EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFB6307-008E-B57A-717D-63FD93344B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFB6307-008E-B57A-717D-63FD93344B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFB6307-008E-B57A-717D-63FD93344B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFB6307-008E-B57A-717D-63FD93344B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16B5FFD7-6CEB-4B56-4990-A16EB67FC175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B5FFD7-6CEB-4B56-4990-A16EB67FC175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B5FFD7-6CEB-4B56-4990-A16EB67FC175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B5FFD7-6CEB-4B56-4990-A16EB67FC175}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
